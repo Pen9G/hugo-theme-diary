@@ -26,3 +26,9 @@
   translation: 草稿
 - id: toc_title
   translation: 目录
+- id: thanks_to
+  translation: Thanks to
+- id: is
+  translation: 是
+- id: port
+  translation: 的移植
