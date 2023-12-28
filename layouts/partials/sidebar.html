@@ -9,7 +9,7 @@
         </div>
         {{ with .Site.Params.subtitle }}
         <div class="nav-subtitle">
-            {{.}}
+            {{. | safeHTML}}
         </div>
         {{ end }}
     </a>
